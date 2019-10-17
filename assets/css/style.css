@@ -1,0 +1,16 @@
+#ultimosAnuncios {
+    width: 270px;
+    padding:10px;
+}
+#imageProduto  {
+    width: 100%;
+    height:300px;;
+    
+}
+#imageFiltro {
+    width: 500px;
+    height:400px;
+}
+.container {
+    position: inherit;
+}
